@@ -1,0 +1,22 @@
+[
+    { "id": 1, "name": "Nowy Rok", "src": "./images/photo1.jpg", "votes": 0 },
+    { "id": 2, "name": "PS", "src": "./images/photo2.jpg", "votes": 15 },
+    { "id": 3, "name": "Piekarz", "src": "./images/photo3.jpg", "votes": 0 },
+    { "id": 4, "name": "Silka", "src": "./images/photo4.jpg", "votes": 0 },
+    { "id": 5, "name": "21:37", "src": "./images/photo5.jpg", "votes": 20 },
+    { "id": 6, "name": "Nescafe", "src": "./images/photo6.jpg", "votes": 6 },
+    { "id": 7, "name": "Karp", "src": "./images/photo7.jpg", "votes": 0 },
+    { "id": 8, "name": "Zycie", "src": "./images/photo8.jpg", "votes": 0 },
+    { "id": 9, "name": "Jarzynowa moc", "src": "./images/photo9.jpg", "votes": 0 },
+    { "id": 10, "name": "YouTubey", "src": "./images/photo10.jpg", "votes": 17 },
+    { "id": 11, "name": "Pokemony", "src": "./images/photo11.jpg", "votes": 0 },
+    { "id": 12, "name": "Prezent", "src": "./images/photo12.jpg", "votes": 0 },
+    { "id": 13, "name": "Herbata", "src": "./images/photo13.jpg", "votes": 3 },
+    { "id": 14, "name": "Programer", "src": "./images/photo14.jpg", "votes": 23 },
+    { "id": 15, "name": "Zielone", "src": "./images/photo15.jpg", "votes": 0 },
+    { "id": 16, "name": "Praca", "src": "./images/photo16.jpg", "votes": 0 },
+    { "id": 17, "name": "Wiedzmin", "src": "./images/photo17.jpg", "votes": 27 },
+    { "id": 18, "name": "Pokolenia", "src": "./images/photo18.jpg", "votes": 0 },
+    { "id": 19, "name": "Swieta", "src": "./images/photo19.jpg", "votes": 7 },
+    { "id": 20, "name": "2024", "src": "./images/photo20.jpg", "votes": 4 }
+]
